@@ -1,12 +1,12 @@
 {
-  "export_job_id": "19e0bf83-64cb-4521-9088-d631f6441870",
+  "export_job_id": "05094c6e-af4a-41e3-b8ba-d804b1667322",
   "id_short": 732316,
-  "published_at": "2026-04-18T19:47:24Z",
+  "published_at": "2026-04-23T07:07:15Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-kansas-city-mo-ks-metro-area-us-sample-732316",
   "sample_asset_name": "beamstation_732316_restaurants-us-kansascitymoks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/732316/beamstation_732316_restaurants-us-kansascitymoks_SAMPLE_DIST.csv",
-  "sample_records": 118,
-  "sample_sha256": "24c0ac8d65488a047424026e696567410a51ca0d92a5446310166c2afefabba0",
-  "sample_size_bytes": 481658,
-  "total_records": 1182
+  "sample_records": 95,
+  "sample_sha256": "8f7be6b3d3431b0ae1c97a316d4c48eb62db719af6b795e2d9bc12c09c15f0a5",
+  "sample_size_bytes": 393713,
+  "total_records": 951
 }
